@@ -11,7 +11,7 @@ const API_KEY_FOOTBALL = '815403c4cb90a5a0f40be90970d79c48';
 
 // Tus datos oficiales de Twilio extraídos de tu captura:
 const TWILIO_ACCOUNT_SID = 'ACf42cc126a9cb565948d3246009ce65c9'; 
-const TWILIO_AUTH_TOKEN = 'ee42db1552ae32f8af6a22816138223a'; // 👈 ¡Token cargado!
+const TWILIO_AUTH_TOKEN = '996e379d370b063c900cc4c0369bd423'; // 👈 ¡Token cargado!
 const TWILIO_NUMERO_WHATSAPP = 'whatsapp:+14155238886';
 // ==========================================
 
