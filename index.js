@@ -6,7 +6,7 @@ const twilio = require('twilio');
 // ==========================================
 // CONFIGURACIÓN ⚙️
 // ==========================================
-const NUMERO_VIEJO = 'whatsapp:+549223455997'; 
+const NUMERO_VIEJO = 'whatsapp:+5492234559974'; 
 const API_KEY_FOOTBALL = '815403c4cb90a5a0f40be90970d79c48';
 
 // Tus datos oficiales de Twilio extraídos de tu captura:
